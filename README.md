@@ -22,9 +22,3 @@ learning how to turn ideas into little pieces of the internet
 ♡ experiments with javascript
 ♡ beginner react apps
 ♡ things i build while learning
-
----
-
-<p align="center">
-made with curiosity and a lot of late night learning ♡
-</p>
