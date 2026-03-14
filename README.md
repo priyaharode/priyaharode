@@ -22,3 +22,8 @@ learning how to turn ideas into little pieces of the internet
 ♡ experiments with javascript
 ♡ beginner react apps
 ♡ things i build while learning
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/priyaharode/priyaharode/blob/output/github-contribution-grid-snake.svg)
